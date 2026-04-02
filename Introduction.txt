@@ -1,0 +1,76 @@
+1. Low level language===> 0,1 ==> understable
+
+2. Assembly language ====> ADD => 0x76 
+
+3. High level language====>english 
+
+1. Compiler ===> 
+
+2. Interpeter===> 
+
+Conditions ===>
+
+Looping====>
+
+Variable
+
+
+--------------------------------------------------
+
+statement==> 
+
+algorithm===>
+
+syntax===>
+
+semantics
+
+-----------------------------------------------------
+
+Javscript===>
+
+high level programming language
+
+Single threaded programming language
+
+1. Variable==> refers to certain memory location,where you can store the data and access it as your need
+
+1. var 2.let 3.const
+
+syntax
+
+var variable_name; // variable declaration
+variable_name=data; // variable assignment
+
+var variable_name=data; // variable defination = variable declaration + variable assignment
+
+1. variable name should be meaningful
+2. naming case==> camalCase, snake_case
+3. variable name is case sensitive
+4. Letters,digits,undersore $ allowed
+5. Must begin with a-z,$,- 
+6. reserved words cannot be used as variable name
+
+
+
+a+b
+
+Data==> meaningful information
+
+Data type==> type of data
+
+1. Primitive data type / In built data type
+2. User created data type
+
+Primitive Data type===> 7
+
+1. null , Number, String, Symbol, undefined , boolean, BigInt
+
+Operator
+------------------
+
+a + b
+
+operand (a,b)
+Operator (+)
+ expression // statement
