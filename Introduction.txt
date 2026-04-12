@@ -74,3 +74,73 @@ a + b
 operand (a,b)
 Operator (+)
  expression // statement
+
++ 
+
+2+2 === expression
+2 = operand
++ Operator
+
+age > 18
+
+3 types (Based on operand)
+
+1. Unary Operator ()
+
+++ (increement)
+-- (decreament)
+typeof
+!
+
+
+
+2. Binary Operator
++ , -
+
+3. Ternary Operator
+
+(condition ? val1 : val2);
+
+Arithmetic Operator
+
+==> perfroms mathematical operation
+
+1. Addition (+)
+2. Substraction(-)
+3. Multiplicatio (*)
+4. Division (/)
+5. Modulo (%)
+
+Assignment Operator
+
+==> value assignment
+
+=
+
+Comparison Operator
+
+==> perfroms the comparision between two operand
+
+< 
+>
+<=
+>=
+
+Boolean value true false
+
+Equality Operator
+
+== (loosely Equality)
+=== (strictly Equality)
+!= (loosely not-equals)
+!== (strictly not-equals)
+
+Compound assignment / Compound Operator
+
++=
+*=
+-=
+/=
+
+combine a math operation / Arithmetic operation with assignment
+

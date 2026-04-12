@@ -5,3 +5,5 @@ console.log(a); // Output: 10
 
 var ab = 20;
 console.log(ab); // Output: 20
+
+var abc = 30;
