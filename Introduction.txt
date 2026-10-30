@@ -144,3 +144,63 @@ Compound assignment / Compound Operator
 
 combine a math operation / Arithmetic operation with assignment
 
+Logical Operator
+
+A B OUTPUT= A.B
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+
+0==> false
+1==> true
+
+A B OUTPUT= A+B
+0 0 0
+0 1 1
+1 0 1
+1 1 1
+
+A OUTPUT=
+0   1
+1   0
+
+&& (Logical And)
+|| (Logical Or operator)
+! (Logical not)
+
+Logic and ===> we need to satisfy all condition
+Logical or==> either or
+
+20 == 20
+18 > 20
+
+
+Logical and
+
+expression1 && expression 2
+
+expression1 =====> true/false
+
+20 + 20 ===> 40
+
+expression2====> true/false or anything
+
+A                B             OUTPUT===A.B
+expression1    expression2
+
+Logical Or
+
+expression1 ====>
+expression2 ===>
+
+if expresion 1 is true then it's bypassing the expression 2 and returning the value of expression 1
+
+expression1 || expression2
+
+Comparison or Equality
+40
+29
+null
+
+!expression

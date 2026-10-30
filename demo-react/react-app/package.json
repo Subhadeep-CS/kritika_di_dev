@@ -1,0 +1,13 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "A simple react app",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "author": "Subhadeep Das",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}

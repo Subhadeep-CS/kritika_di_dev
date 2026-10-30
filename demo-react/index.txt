@@ -1,0 +1,7 @@
+1. Web ==> Client server architecture
+
+Client ===> request  server ====> process ===> send to client 
+
+React ==> Javascript library that helps to create user interfaces
+
+Bundlers:- 
