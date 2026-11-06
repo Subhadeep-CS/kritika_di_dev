@@ -1,6 +1,4 @@
-3632
-89D:\tutorial\kritika_di\demo-react\react-app\node_modules\msgpackr-extract\src\extract.cpp134378374848507872 0
-50D:\tutorial\kritika_di\demo-react\react-app\App.js134381080752223891 0
+3630
 66D:\tutorial\kritika_di\demo-react\react-app\node_modules\picomatch134378374867768351 1
 82D:\tutorial\kritika_di\demo-react\react-app\node_modules\semver\ranges\simplify.js134378374884907262 0
 56D:\tutorial\kritika_di\demo-react\react-app\package.json134381082915099276 0
@@ -16,7 +14,21 @@
 79D:\tutorial\kritika_di\demo-react\react-app\node_modules\ordered-binary\LICENSE134378374849345201 0
 113D:\tutorial\kritika_di\demo-react\react-app\node_modules\ordered-binary\.claude\worktrees\bun-finishutf8\index.js134378374864787000 0
 106D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\features\css-backdrop-filter.js134378374898896804 0
-48D:\tutorial\kritika_di\demo-react\react-app\dist134381076047979351 1
+48D:\tutorial\kritika_di\demo-react\react-app\dist134384445903051562 1
+114D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js134378374869991906 0
+105D:\tutorial\kritika_di\demo-react\react-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c134378374891607622 0
+100D:\tutorial\kritika_di\demo-react\react-app\node_modules\type-fest\source\union-to-intersection.d.ts134378374884216071 0
+95D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\_\_ts_values\package.json134378374914610416 0
+95D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\cjs\_set_prototype_of.cjs134378374890805596 0
+73D:\tutorial\kritika_di\demo-react\react-app\node_modules\msgpackr-extract134378374862228181 1
+81D:\tutorial\kritika_di\demo-react\react-app\node_modules\react\jsx-dev-runtime.js134381073316822192 0
+98D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\core\test\fixtures\custom-targets134378374907971700 1
+95D:\tutorial\kritika_di\demo-react\react-app\node_modules\lmdb\node_modules\node-addon-api\tools134378374877238345 1
+51D:\tutorial\kritika_di\demo-react\react-app\App.jsx134384443539631244 0
+91D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\_\_throw\package.json134378374913924867 0
+101D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\_\_apply_decs_2311\package.json134378374907368784 0
+83D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\optimizer-html\src134378374851950588 1
+84D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\_\_await_value134378374908259282 1
 66D:\tutorial\kritika_di\demo-react\react-app\node_modules\type-fest134378374873248547 1
 92D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\regions\alt-ww.js134378374878109181 0
 104D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\src\_skip_first_generator_next.mjs134378374919101782 0
@@ -32,7 +44,7 @@
 62D:\tutorial\kritika_di\demo-react\react-app\node_modules\json5134378374870957185 1
 88D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\regions\TD.js134378374927003457 0
 95D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\transformer-babel\package.json134378374876239423 0
-54D:\tutorial\kritika_di\demo-react\react-app\index.html134381070885126315 0
+54D:\tutorial\kritika_di\demo-react\react-app\index.html134381084455312690 0
 83D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\cache\lib\index.js134378374864595578 0
 88D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\regions\GM.js134378374914929163 0
 73D:\tutorial\kritika_di\demo-react\react-app\node_modules\dotenv\config.js134378374851814691 0
@@ -52,7 +64,7 @@
 76D:\tutorial\kritika_di\demo-react\react-app\node_modules\regenerator-runtime134378374856506968 1
 90D:\tutorial\kritika_di\demo-react\react-app\node_modules\type-fest\source\stringified.d.ts134378374883628292 0
 108D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\features\background-attachment.js134378374887201457 0
-52D:\tutorial\kritika_di\demo-react\react-app\index.js134381082376343407 0
+52D:\tutorial\kritika_di\demo-react\react-app\index.js134384443719664455 0
 106D:\tutorial\kritika_di\demo-react\react-app\node_modules\react-dom\cjs\react-dom-server.edge.production.js134381073820206943 0
 94D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\features\outline.js134378374923234345 0
 56D:\tutorial\kritika_di\demo-react\react-app\node_modules134381073822883977 1
@@ -219,12 +231,6 @@
 75D:\tutorial\kritika_di\demo-react\react-app\node_modules\scheduler\index.js134381073810740665 0
 95D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\esm\_apply_decs_2203_r.js134378374895308038 0
 65D:\tutorial\kritika_di\demo-react\react-app\node_modules\msgpackr134378374890030320 1
-114D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js134378374869991906 0
-105D:\tutorial\kritika_di\demo-react\react-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c134378374891607622 0
-100D:\tutorial\kritika_di\demo-react\react-app\node_modules\type-fest\source\union-to-intersection.d.ts134378374884216071 0
-95D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\_\_ts_values\package.json134378374914610416 0
-95D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\cjs\_set_prototype_of.cjs134378374890805596 0
-73D:\tutorial\kritika_di\demo-react\react-app\node_modules\msgpackr-extract134378374862228181 1
 84D:\tutorial\kritika_di\demo-react\react-app\node_modules\semver\functions\compare.js134378374865568038 0
 108D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\core\test\fixtures\main-global\package.json134378374908949202 0
 89D:\tutorial\kritika_di\demo-react\react-app\node_modules\node-gyp-build-optional-packages134378374860691956 1
@@ -963,7 +969,6 @@
 92D:\tutorial\kritika_di\demo-react\react-app\node_modules\lightningcss-win32-x64-msvc\LICENSE134378374846802966 0
 107D:\tutorial\kritika_di\demo-react\react-app\node_modules\react-dom\cjs\react-dom.react-server.production.js134381073821789716 0
 77D:\tutorial\kritika_di\demo-react\react-app\node_modules\msgpackr-extract\bin134378374854781505 1
-81D:\tutorial\kritika_di\demo-react\react-app\node_modules\react\jsx-dev-runtime.js134381073316822192 0
 99D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\types-internal\scripts\build-ts.sh134378374872600957 0
 88D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\regions\BF.js134378374889407933 0
 94D:\tutorial\kritika_di\demo-react\react-app\node_modules\react\jsx-dev-runtime.react-server.js134381073316852369 0
@@ -1022,7 +1027,6 @@
 100D:\tutorial\kritika_di\demo-react\react-app\node_modules\react\cjs\react.react-server.development.js134381073317808375 0
 96D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\src\_non_iterable_rest.mjs134378374918571054 0
 81D:\tutorial\kritika_di\demo-react\react-app\node_modules\postcss-value-parser\lib134378374865195483 1
-74D:\tutorial\kritika_di\demo-react\react-app\dist\react-app.c36f364e.js.map134381076047969307 0
 85D:\tutorial\kritika_di\demo-react\react-app\node_modules\postcss-value-parser\LICENSE134378374846802966 0
 83D:\tutorial\kritika_di\demo-react\react-app\node_modules\node-addon-api\common.gypi134378374852911244 0
 90D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\features\aac.js134378374849305211 0
@@ -1203,6 +1207,7 @@
 86D:\tutorial\kritika_di\demo-react\react-app\node_modules\msgpackr-extract\package.json134378374860517883 0
 102D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\features\getrandomvalues.js134378374914620451 0
 74D:\tutorial\kritika_di\demo-react\react-app\node_modules\base-x\LICENSE.md134378374851935395 0
+89D:\tutorial\kritika_di\demo-react\react-app\node_modules\msgpackr-extract\src\extract.cpp134378374848507872 0
 128D:\tutorial\kritika_di\demo-react\react-app\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js134378374855064829 0
 137D:\tutorial\kritika_di\demo-react\react-app\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\node-gyp-build.js134378374857623976 0
 97D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\graph\test\AdjacencyList.test.js134378374864065711 0
@@ -1379,12 +1384,6 @@
 100D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\_\_initializer_define_property134378374911583307 1
 104D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\core\test\fixtures\plugins\node_modules134378374893976342 1
 99D:\tutorial\kritika_di\demo-react\react-app\node_modules\lmdb\node_modules\node-addon-api\README.md134378374876737184 0
-98D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\core\test\fixtures\custom-targets134378374907971700 1
-95D:\tutorial\kritika_di\demo-react\react-app\node_modules\lmdb\node_modules\node-addon-api\tools134378374877238345 1
-91D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\_\_throw\package.json134378374913924867 0
-101D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\_\_apply_decs_2311\package.json134378374907368784 0
-83D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\optimizer-html\src134378374851950588 1
-84D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\_\_await_value134378374908259282 1
 87D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\core\src\assetUtils.js134378374883638480 0
 97D:\tutorial\kritika_di\demo-react\react-app\node_modules\@swc\helpers\src\_is_native_function.mjs134378374918198178 0
 109D:\tutorial\kritika_di\demo-react\react-app\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js134378374870947195 0
@@ -1573,6 +1572,7 @@
 88D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\regions\BO.js134378374891138631 0
 74D:\tutorial\kritika_di\demo-react\react-app\node_modules\is-glob\README.md134378374854807031 0
 75D:\tutorial\kritika_di\demo-react\react-app\node_modules\is-extglob\LICENSE134378374851163193 0
+70D:\tutorial\kritika_di\demo-react\react-app\dist\react-app.e02fbd41.js134384445902963071 0
 109D:\tutorial\kritika_di\demo-react\react-app\node_modules\caniuse-lite\data\features\indeterminate-checkbox.js134378374916847226 0
 80D:\tutorial\kritika_di\demo-react\react-app\node_modules\is-extglob\package.json134378374846734075 0
 74D:\tutorial\kritika_di\demo-react\react-app\node_modules\has-flag\index.js134378374851163193 0
@@ -3254,7 +3254,7 @@
 107D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js134378374876436437 0
 99D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\core\lib\requests\TargetRequest.js134378374904789148 0
 109D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js134378374883683796 0
-59D:\tutorial\kritika_di\demo-react\react-app\dist\index.html134381076004003072 0
+59D:\tutorial\kritika_di\demo-react\react-app\dist\index.html134384445900039000 0
 95D:\tutorial\kritika_di\demo-react\react-app\node_modules\@mischnic\json-sourcemap\dist\index.js134378374857979801 0
 107D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js134378374871822195 0
 107D:\tutorial\kritika_di\demo-react\react-app\node_modules\@parcel\runtime-js\lib\helpers\node\node-loader.js134378374881047403 0
@@ -3628,6 +3628,4 @@
 98D:\tutorial\kritika_di\demo-react\react-app\node_modules\.bin\node-gyp-build-optional-packages.cmd134378374930644095 0
 68D:\tutorial\kritika_di\demo-react\react-app\node_modules\.bin\parcel134378374930644095 0
 88D:\tutorial\kritika_di\demo-react\react-app\node_modules\.bin\update-browserslist-db.ps1134378374930644095 0
-70D:\tutorial\kritika_di\demo-react\react-app\dist\react-app.3464ddca.js134381075998143702 0
-74D:\tutorial\kritika_di\demo-react\react-app\dist\react-app.3464ddca.js.map134381075998188871 0
-70D:\tutorial\kritika_di\demo-react\react-app\dist\react-app.c36f364e.js134381076047916640 0
+74D:\tutorial\kritika_di\demo-react\react-app\dist\react-app.e02fbd41.js.map134384445903041437 0

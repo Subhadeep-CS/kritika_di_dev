@@ -5,3 +5,19 @@ Client ===> request  server ====> process ===> send to client
 React ==> Javascript library that helps to create user interfaces
 
 Bundlers:- 
+
+1. Dev server
+
+2. Caching
+
+3. HMR (Hot module replacement) =>
+
+4. Tree shaking
+
+5. Transpilation babel
+
+6. Production build
+
+* package.json ===> 
+
+  

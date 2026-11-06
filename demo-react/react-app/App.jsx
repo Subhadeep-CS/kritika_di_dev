@@ -1,15 +1,14 @@
+import ComponentOne from "./components/ComponentOne";
+import ComponentTwo from "./components/ComponentTwo";
+import ComponentThree from "./components/ComponentThree";
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <ComponentOne></ComponentOne>
+      <ComponentTwo />
+      {ComponentThree()}
     </div>
   );
 }
-
-export function Demo() {
-  return <h1>Demo</h1>;
-}
-
-// export default Demo;
 
 export default App;
